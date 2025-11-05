@@ -28,28 +28,8 @@
       src="https://custom-icon-badges.demolab.com/github/followers/BraulioJr?color=2B2B2B&label=Seguidores&logo=github&logoColor=white&style=for-the-badge&labelColor=1C1C1C" 
       alt="Seguidores no GitHub" 
       title="Siga-me no GitHub" />
-  </a>
-
-  <!-- ⭐ Estrelas -->
-  <a href="https://github.com/BraulioJr?tab=repositories" target="_blank">
-    <img
-      alt="Estrelas nos repositórios"
-      title="Total de estrelas recebidas"
-      src="https://custom-icon-badges.demolab.com/github/stars/BraulioJr?color=2B2B2B&label=Estrelas&logo=github&logoColor=white&style=for-the-badge&labelColor=1C1C1C"
-    />
-  </a>
-
-  <!-- 👁️ Views (contador real e dinâmico, com logo GitHub integrada) -->
-  <a href="https://github.com/BraulioJr" target="_blank">
-    <img
-      alt="Visualizações do perfil no GitHub"
-      title="Total de visualizações do perfil"
-      src="https://komarev.com/ghpvc/?username=BraulioJr&label=Views&color=2B2B2B&labelColor=1C1C1C&style=for-the-badge&logo=github&logoColor=white"
-    />
-  </a>
-
 </div>
-
+<!-- Estrelas --> <a href="https://github.com/BraulioJr?tab=repositories" target="_blank"> <img alt="Estrelas nos repositórios" title="Total de estrelas recebidas" src="https://custom-icon-badges.demolab.com/github/stars/BraulioJr?color=2B2B2B&label=Estrelas&logo=github&logoColor=white&style=for-the-badge&labelColor=1C1C1C" /> </a> <!-- Views (contador real e dinâmico, com logo GitHub integrada) --> <a href="https://github.com/BraulioJr" target="_blank"> <img alt="Visualizações do perfil no GitHub" title="Total de visualizações do perfil" src="https://komarev.com/ghpvc/?username=BraulioJr&label=Views&color=2B2B2B&labelColor=1C1C1C&style=for-the-badge&logo=github&logoColor=white" /> </a>
 <br>
 
 <!-- Estatísticas -->
@@ -79,8 +59,6 @@
     />
   </a>
  
-
-
 
   
 </p>
