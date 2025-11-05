@@ -49,7 +49,7 @@
     alt="Estatísticas do GitHub de BraulioJr" />
 </div>
 <!-- 🎥 YouTube + 🧑‍💻 GitHub Badges Modernos -->
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 8px;">
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
 
   <!-- 🎥 YouTube: Inscritos -->
   <a href="https://www.youtube.com/@braul.jrz1" target="_blank">
@@ -60,7 +60,7 @@
     />
   </a>
 
-  <!-- 🎥 YouTube: Views -->
+  <!-- 🎥 YouTube: Views-->
   <a href="https://www.youtube.com/@braul.jrz1" target="_blank">
     <img
       alt="Views no YouTube"
@@ -68,7 +68,6 @@
       src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCjpaj0-F7TZUQXZ4MlpiVrg?color=2B2B2B&label=Views&logo=youtube&logoColor=FF0000&style=for-the-badge&labelColor=1C1C1C"
     />
   </a>
-
   <!-- 🧑‍💻 GitHub: Seguidores -->
   <a href="https://github.com/BraulioJr?tab=followers" target="_blank">
     <img
@@ -81,20 +80,19 @@
   <!-- ⭐ GitHub: Estrelas -->
   <a href="https://github.com/BraulioJr?tab=repositories" target="_blank">
     <img
-      alt="Estrelas nos repositórios do GitHub"
+      alt="Estrelas nos repositórios"
       title="Total de estrelas recebidas"
       src="https://custom-icon-badges.demolab.com/github/stars/BraulioJr?color=2B2B2B&label=Estrelas&logo=github&logoColor=white&style=for-the-badge&labelColor=1C1C1C"
     />
   </a>
-
-  <!-- 👁️ GitHub: Views do perfil -->
-  <a href="https://github.com/BraulioJr" target="_blank">
-    <img
-      alt="Views do perfil no GitHub"
-      title="Total de visualizações do perfil"
-      src="https://komarev.com/ghpvc/?username=BraulioJr&style=for-the-badge&color=2B2B2B&labelColor=1C1C1C&label=Views&logo=github&logoColor=white"
-    />
+  
+<!-- 👁️ GitHub: Views com logo integrada (contador real e dinâmico) -->
+<p align="left">
+  <a href="https://github.com/BraulioJr" target="_blank" style="text-decoration:none;">
+    <span style="display:inline-flex; align-items:center; background-color:#2B2B2B; color:white; border-radius:6px; font-family:Segoe UI, sans-serif; font-weight:600; padding:6px 12px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="18" height="18" alt="GitHub" style="margin-right:6px;">
+      Views:&nbsp;
+      <img src="https://komarev.com/ghpvc/?username=BraulioJr&color=2B2B2B&label=&style=flat-square" alt="Contador" style="vertical-align:middle;"/>
+    </span>
   </a>
-
 </p>
-
