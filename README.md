@@ -1,66 +1,61 @@
 <!--Título-->
 
 <div id="user-content-toc">
-  <h1 align="center"> Bem vindo ao futuro</h1>
+  <h1 align="center">Bem vindo ao futuro</h1>
+  <h2 align="center">👋Sou Bráulio Moreira</h2>
+  <h3 align="center">Autodidata fascinado por Ciência de Dados</h3><br>
 
 </div>
 
 <!--Apresentação -->
 <p>
-   👋Sou Bráulio Moreira - autodidata fascinado por Ciência de Dados.<br>
  🌱 Meu foco é desenvolver habilidades para transformar dados em decisões inteligentes.
     Estudo estatística, Python e machine learning.<br>
     Acredito no poder da curiosidade, da análise e da tecnologia para resolver problemas reais.<br>
+</p>
 
-<!-- Dropdown-->
+<!-- Lista Suspensa - Explore meu perfil profissional-->
 <details>
   <summary>👨‍💻 Explore meu perfil profissional.</summary>
+  💬Sou brasileiro nato e tenho 45 anos. Possuo inglês funcional, suficiente para realizar minhas atividades de programação. Já tive uma breve experiência acadêmica na área de computação. Contudo, sou formado em Gestão de Recursos Humanos, com experiência em desenvolvimento de equipes, liderança e planejamento de talentos. Tenho experiência em gestão de processos administrativos, incluindo organização, controle de rotina e otimização de fluxos de trabalho. Sou capaz de implementar melhorias operacionais e garantir a eficiência dos processos internos. Gosto de combinar coordenação, análise e tomada de decisões para gerar resultados sólidos, alinhados aos objetivos da equipe e da empresa.<br/></details>
 
-  💬Sou brasileiro nato e tenho 45 anos. Possuo inglês funcional, suficiente para realizar minhas atividades de programação. Já tive uma breve experiência acadêmica na área de computação. Contudo, sou formado em Gestão de Recursos Humanos, com experiência em desenvolvimento de equipes, liderança e planejamento de talentos. Tenho experiência em gestão de processos administrativos, incluindo organização, controle de rotina e otimização de fluxos de trabalho. Sou capaz de implementar melhorias operacionais e garantir a eficiência dos processos internos. Gosto de combinar coordenação, análise e tomada de decisões para gerar resultados sólidos, alinhados aos objetivos da equipe e da empresa.
-</details>
+<!-- GitHub Badges + Estatísticas -->
+<div align="left">
 
+  <!-- Badge: Seguidores -->
+  <a href="https://github.com/BraulioJr?tab=followers">
+    <img 
+      src="https://custom-icon-badges.demolab.com/github/followers/BraulioJr?color=5865F2&label=Seguidores&logo=github&logoColor=white&style=for-the-badge" 
+      alt="Seguidores no GitHub" 
+      title="Siga-me no GitHub" />
+  </a>
 
-<!-- Links youtube-->
-<p align= "left" >
+  <!-- Badge: Estrelas -->
+  <a href="https://github.com/BraulioJr?tab=repositories">
+    <img 
+      src="https://custom-icon-badges.demolab.com/github/stars/BraulioJr?color=5865F2&label=Stars&logo=star&logoColor=white&style=for-the-badge" 
+      alt="Total de estrelas" 
+      title="Repositórios estrelados" />
+  </a>
 
-<a href="https://www.youtube.com/@braul.jrz1">
-     <imeg
-     alt="inscritos"
-     titli="Inscreva-se"
-     src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCjpaj0-F7TZUQXZ4MlpiVrg?color=%23E05D44&label=inscreva-se&logo=video&logocolor=white&style=for-the-badge&labelcolor=CE4630"
-     /></a>
+</div>
 
-<!-- Estatisticas do YouTube-->
-<a href="left">
-     <imeg
-     alt="youtube views"
-     titli="visualizações no youtube"
-     src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCjpaj0-F7TZUQXZ4MlpiVrg?color=%23E05D44&label=inscreva-se&logo=video&logocolor=white&style=for-the-badge&labelcolor=CE4630
-     /></a>
-     
- <a href="https://github.com/BraulioJr?tab=followers">
-     <imeg
-     alt="followers"
-     titli="follow on github"
-     src="https://custom-icon-badges.demolab.com/github/followers/BraulioJr?/UCjpaj0-F7TZUQXZ4MlpiVrg?color=%23E05D44&label=inscreva-se&logo=video&logocolor=white&style=for-the-badge&labelcolor=CE4630"
-     /></a>
+<br>
 
-<a href="https://github.com/BraulioJr?tab=followers">
-     <imeg
-     alt="total star"
-     titli="follow on github"
-     src="https://custom-icon-badges.demolab.com/github/followers/BraulioJr?/UCjpaj0-F7TZUQXZ4MlpiVrg?color=%23E05D44&label=inscreva-se&logo=video&logocolor=white&style=for-the-badge&labelcolor=CE4630"
-     /></a>
-
-<!--Estatísticas do GitHub-->
-![BraulioJr GitHub stats](https://github-readme-stats.vercel.app/api?username=BraulioJr&show_icons=true&theme=gotham)
+<!-- Estatísticas -->
+<div align="left">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=BraulioJr&show_icons=true&theme=gotham&title_color=5865F2&icon_color=5865F2" 
+    alt="Estatísticas do GitHub de BraulioJr" />
+</div>
 
 
-<a>
-
-<!--  Play list Spotify-->
+<!-- Playlist Spotify -->
 <p align="left">
-  <a href="https://open.spotify.com/user/31smb24pscew3akwdhp2dbpyluni" target="_blank">
-    <img src="https://img.shields.io/badge/🎧_Ouça_no_Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge" />
+  <a href="https://open.spotify.com/user/31smb24pscew3akwdhp2dbpyluni">
+    <img 
+      src="https://img.shields.io/badge/🎧_Ouça_no_Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" 
+      alt="Ouça no Spotify" 
+      title="Abrir Spotify de BraulioJr" />
   </a>
 </p>
