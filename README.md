@@ -10,7 +10,7 @@
 <!--Apresentação -->
 <p>
     Meu foco é desenvolver habilidades para transformar dados em decisões inteligentes.
-    Estudo estatística, Python e machine learning.<br>
+    Estudo Data Analysis e machine learning com foco em otimização de processos.<br>
     Acredito no poder da curiosidade, da análise e da tecnologia para resolver problemas reais.<br>
 </p>
 
