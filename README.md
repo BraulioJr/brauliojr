@@ -61,10 +61,15 @@
 
 </p>
 
-<!--EScrita. -->
-<p>
+<!--Texto. -->
+<details>
+  <summary>Texto:</summary>
+  Minha evolução é medida não apenas pelos projetos entregues, mas também pelo crescimento contínuo em habilidades analíticas e capacidade de transformar dados em insights acionáveis. Sinta-se à vontade para explorar meus repositórios e acompanhar meu progresso!.<br></details>
 
-    Minha evolução é medida não apenas pelos projetos entregues, mas também pelo crescimento contínuo em habilidades analíticas e capacidade de transformar dados em insights acionáveis.
-    Sinta-se à vontade para explorar meus repositórios e acompanhar meu progresso!.<br>
-</p>
 <!--linguagem de Programação -->
+  <p>
+  
+  
+  
+  
+  </P>
