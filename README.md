@@ -10,14 +10,14 @@
 <!--Apresentação -->
 <p>
     Meu foco é desenvolver habilidades para transformar dados em decisões inteligentes.
-    Estudo Data Analysis e machine learning com foco em otimização de processos.<br>
+    Estudo Data Analysis e Machine Learning com foco em otimização de processos.<br>
     Acredito no poder da curiosidade, da análise e da tecnologia para resolver problemas reais.<br>
 </p>
 
 <!-- Lista Suspensa - Explore meu perfil profissional-->
 <details>
   <summary>👨‍💻 Explore meu perfil profissional.</summary>
-  💬Sou brasileiro nato e tenho 45 anos. Possuo inglês funcional, suficiente para realizar minhas atividades de programação. Já tive uma breve experiência acadêmica na área de computação. Contudo, sou formado em Gestão de Recursos Humanos, com experiência em desenvolvimento de equipes, liderança e planejamento de talentos. Tenho experiência em gestão de processos administrativos, incluindo organização, controle de rotina e otimização de fluxos de trabalho. Sou capaz de implementar melhorias operacionais e garantir a eficiência dos processos internos. Gosto de combinar coordenação, análise e tomada de decisões para gerar resultados sólidos, alinhados aos objetivos da equipe e da empresa.<br></details>
+  💬Sou brasileiro nato e tenho 45 anos. Possuo inglês funcional, suficiente para realizar minhas atividades de programação. Já tive uma breve experiência acadêmica e profissional na área de computação. Contudo, sou formado em Gestão de Recursos Humanos, com experiência em desenvolvimento de equipes, liderança e planejamento de talentos. Tenho experiência em gestão de processos administrativos, incluindo organização, controle de rotina e otimização de fluxos de trabalho. Sou capaz de implementar melhorias operacionais e garantir a eficiência dos processos internos. Gosto de combinar coordenação, análise e tomada de decisões para gerar resultados sólidos, alinhados aos objetivos da equipe e da empresa.<br></details>
 
 <!-- 🧩 GitHub Badges + Estatísticas (estilo uniforme moderno) -->
 <div align="left">
@@ -61,15 +61,23 @@
 
 </p>
 
-<!--Texto. -->
+<!--Report-->
 <details>
-  <summary>Texto:</summary>
-  Minha evolução é medida não apenas pelos projetos entregues, mas também pelo crescimento contínuo em habilidades analíticas e capacidade de transformar dados em insights acionáveis. Sinta-se à vontade para explorar meus repositórios e acompanhar meu progresso!.<br></details>
+  <summary>Report:</summary>
+  Minha evolução é medida não apenas pelos projetos entregues, mas também pelo crescimento contínuo em habilidades analíticas e capacidade de transformar dados em insights acionáveis.<br> Sinta-se à vontade para explorar meus repositórios e acompanhar meu progresso!.<br></details>
 
-<!--linguagem de Programação -->
-  <p>
-  
-  
-  
-  
-  </P>
+<!--Linguagens e Ferramentas -->
+<a>
+
+<img align="left"
+title="html"
+title="html"
+width="30px"
+style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+
+
+
+
+
+</a>
