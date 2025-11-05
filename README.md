@@ -48,8 +48,8 @@
     src="https://github-readme-stats.vercel.app/api?username=BraulioJr&show_icons=true&theme=gotham&title_color=5865F2&icon_color=5865F2" 
     alt="Estatísticas do GitHub de BraulioJr" />
 </div>
-<!-- 🌐 YouTube + GitHub Badges -->
-<p align="left">
+<!-- 🎥 YouTube + 🧑‍💻 GitHub Badges Modernos -->
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 8px;">
 
   <!-- 🎥 YouTube: Inscritos -->
   <a href="https://www.youtube.com/@braul.jrz1" target="_blank">
@@ -60,12 +60,12 @@
     />
   </a>
 
-  <!-- 🎥 YouTube: Visualizações -->
+  <!-- 🎥 YouTube: Views -->
   <a href="https://www.youtube.com/@braul.jrz1" target="_blank">
     <img
-      alt="Visualizações no YouTube"
-      title="Visualizações totais do canal"
-      src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCjpaj0-F7TZUQXZ4MlpiVrg?color=2B2B2B&label=Visualizações&logo=youtube&logoColor=FF0000&style=for-the-badge&labelColor=1C1C1C"
+      alt="Views no YouTube"
+      title="Views totais do canal"
+      src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCjpaj0-F7TZUQXZ4MlpiVrg?color=2B2B2B&label=Views&logo=youtube&logoColor=FF0000&style=for-the-badge&labelColor=1C1C1C"
     />
   </a>
 
@@ -81,19 +81,20 @@
   <!-- ⭐ GitHub: Estrelas -->
   <a href="https://github.com/BraulioJr?tab=repositories" target="_blank">
     <img
-      alt="Estrelas no GitHub"
-      title="Total de estrelas nos repositórios"
-      src="https://custom-icon-badges.demolab.com/github/stars/BraulioJr?color=2B2B2B&label=Estrelas&logo=star&logoColor=FFD700&style=for-the-badge&labelColor=1C1C1C"
+      alt="Estrelas nos repositórios do GitHub"
+      title="Total de estrelas recebidas"
+      src="https://custom-icon-badges.demolab.com/github/stars/BraulioJr?color=2B2B2B&label=Estrelas&logo=github&logoColor=white&style=for-the-badge&labelColor=1C1C1C"
     />
   </a>
 
-  <!-- 👁️ GitHub: Visualizações -->
+  <!-- 👁️ GitHub: Views do perfil -->
   <a href="https://github.com/BraulioJr" target="_blank">
     <img
-      alt="Visualizações de perfil"
+      alt="Views do perfil no GitHub"
       title="Total de visualizações do perfil"
-      src="https://komarev.com/ghpvc/?username=BraulioJr&style=for-the-badge&color=2B2B2B&labelColor=1C1C1C&logo=github&logoColor=white&label=Visualizações"
+      src="https://komarev.com/ghpvc/?username=BraulioJr&style=for-the-badge&color=2B2B2B&labelColor=1C1C1C&label=Views&logo=github&logoColor=white"
     />
   </a>
 
 </p>
+
