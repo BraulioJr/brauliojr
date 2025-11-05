@@ -17,7 +17,7 @@
 <!-- Lista Suspensa - Explore meu perfil profissional-->
 <details>
   <summary>👨‍💻 Explore meu perfil profissional.</summary>
-  💬Sou brasileiro nato e tenho 45 anos. Possuo inglês funcional, suficiente para realizar minhas atividades de programação. Já tive uma breve experiência acadêmica na área de computação. Contudo, sou formado em Gestão de Recursos Humanos, com experiência em desenvolvimento de equipes, liderança e planejamento de talentos. Tenho experiência em gestão de processos administrativos, incluindo organização, controle de rotina e otimização de fluxos de trabalho. Sou capaz de implementar melhorias operacionais e garantir a eficiência dos processos internos. Gosto de combinar coordenação, análise e tomada de decisões para gerar resultados sólidos, alinhados aos objetivos da equipe e da empresa.<br/></details>
+  💬Sou brasileiro nato e tenho 45 anos. Possuo inglês funcional, suficiente para realizar minhas atividades de programação. Já tive uma breve experiência acadêmica na área de computação. Contudo, sou formado em Gestão de Recursos Humanos, com experiência em desenvolvimento de equipes, liderança e planejamento de talentos. Tenho experiência em gestão de processos administrativos, incluindo organização, controle de rotina e otimização de fluxos de trabalho. Sou capaz de implementar melhorias operacionais e garantir a eficiência dos processos internos. Gosto de combinar coordenação, análise e tomada de decisões para gerar resultados sólidos, alinhados aos objetivos da equipe e da empresa.<br></details>
 
 <!-- GitHub Badges + Estatísticas -->
 <div align="left">
@@ -49,13 +49,25 @@
     alt="Estatísticas do GitHub de BraulioJr" />
 </div>
 
-
 <!-- Playlist Spotify -->
-<p align="left">
+<div align="left">
+
+  <!-- Badge principal -->
   <a href="https://open.spotify.com/user/31smb24pscew3akwdhp2dbpyluni">
     <img 
-      src="https://img.shields.io/badge/🎧_Ouça_no_Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" 
+      src="https://img.shields.io/badge/🎧_Ouça_no_Spotify-5865F2?style=for-the-badge&logo=spotify&logoColor=white" 
       alt="Ouça no Spotify" 
       title="Abrir Spotify de BraulioJr" />
   </a>
-</p>
+
+  <!-- Tocando agora (com capa e faixa atual) -->
+  <br><br>
+  <a href="https://open.spotify.com/user/31smb24pscew3akwdhp2dbpyluni">
+    <img 
+      src="https://spotify-github-profile.vercel.app/api/view?uid=31smb24pscew3akwdhp2dbpyluni&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&bar_color=5865F2&bar_color_cover=true" 
+      alt="🎵 Tocando agora no Spotify" 
+      title="Tocando agora - BraulioJr" 
+      width="420" />
+  </a>
+
+</div>
