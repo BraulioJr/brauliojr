@@ -17,7 +17,7 @@
 <!-- Lista Suspensa - Explore meu perfil profissional-->
 <details>
   <summary>👨‍💻 Explore meu perfil profissional.</summary>
-  💬Sou brasileiro nato e tenho 45 anos. Possuo inglês funcional, suficiente para realizar minhas atividades de programação. Já tive uma breve experiência acadêmica e profissional na área de computação. Contudo, sou formado em Gestão de Recursos Humanos, com experiência em desenvolvimento de equipes, liderança e planejamento de talentos. Tenho experiência em gestão de processos administrativos, incluindo organização, controle de rotina e otimização de fluxos de trabalho. Sou capaz de implementar melhorias operacionais e garantir a eficiência dos processos internos. Gosto de combinar coordenação, análise e tomada de decisões para gerar resultados sólidos, alinhados aos objetivos da equipe e da empresa.<br></details>
+  💬Sou brasileiro nato e tenho 45 anos. Possuo inglês funcional, suficiente para realizar minhas atividades de programação. Obtive uma breve experiência acadêmica e profissional na área de computação. Contudo, sou formado em Gestão de Recursos Humanos, com experiência em desenvolvimento de equipes, liderança e planejamento de talentos. Tenho experiência em gestão de processos administrativos, incluindo organização, controle de rotina e otimização de fluxos de trabalho. Sou capaz de implementar melhorias operacionais e garantir a eficiência dos processos internos. Gosto de combinar coordenação, análise e tomada de decisões para gerar resultados sólidos, alinhados aos objetivos da equipe e da empresa.<br></details>
 
 <!-- 🧩 GitHub Badges + Estatísticas (estilo uniforme moderno) -->
 <div align="left">
