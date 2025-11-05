@@ -58,7 +58,13 @@
       src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCjpaj0-F7TZUQXZ4MlpiVrg?color=2B2B2B&label=Views&logo=youtube&logoColor=FF0000&style=for-the-badge&labelColor=1C1C1C"
     />
   </a>
- 
 
-  
 </p>
+
+<!--EScrita. -->
+<p>
+
+    Minha evolução é medida não apenas pelos projetos entregues, mas também pelo crescimento contínuo em habilidades analíticas e capacidade de transformar dados em insights acionáveis.
+    Sinta-se à vontade para explorar meus repositórios e acompanhar meu progresso!.<br>
+</p>
+<!--linguagem de Programação -->
