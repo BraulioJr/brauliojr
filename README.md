@@ -9,7 +9,7 @@
 
 <!--Apresentação -->
 <p>
- 🌱 Meu foco é desenvolver habilidades para transformar dados em decisões inteligentes.
+    Meu foco é desenvolver habilidades para transformar dados em decisões inteligentes.
     Estudo estatística, Python e machine learning.<br>
     Acredito no poder da curiosidade, da análise e da tecnologia para resolver problemas reais.<br>
 </p>
@@ -48,26 +48,52 @@
     src="https://github-readme-stats.vercel.app/api?username=BraulioJr&show_icons=true&theme=gotham&title_color=5865F2&icon_color=5865F2" 
     alt="Estatísticas do GitHub de BraulioJr" />
 </div>
+<!-- 🌐 YouTube + GitHub Badges -->
+<p align="left">
 
-<!-- Playlist Spotify -->
-<div align="left">
-
-  <!-- Badge principal -->
-  <a href="https://open.spotify.com/user/31smb24pscew3akwdhp2dbpyluni">
-    <img 
-      src="https://img.shields.io/badge/🎧_Ouça_no_Spotify-5865F2?style=for-the-badge&logo=spotify&logoColor=white" 
-      alt="Ouça no Spotify" 
-      title="Abrir Spotify de BraulioJr" />
+  <!-- 🎥 YouTube: Inscritos -->
+  <a href="https://www.youtube.com/@braul.jrz1" target="_blank">
+    <img
+      alt="Inscritos no YouTube"
+      title="Inscreva-se no canal"
+      src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCjpaj0-F7TZUQXZ4MlpiVrg?color=2B2B2B&label=Inscritos&logo=youtube&logoColor=FF0000&style=for-the-badge&labelColor=1C1C1C"
+    />
   </a>
 
-  <!-- Tocando agora (com capa e faixa atual) -->
-  <br><br>
-  <a href="https://open.spotify.com/user/31smb24pscew3akwdhp2dbpyluni">
-    <img 
-      src="https://spotify-github-profile.vercel.app/api/view?uid=31smb24pscew3akwdhp2dbpyluni&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&bar_color=5865F2&bar_color_cover=true" 
-      alt="🎵 Tocando agora no Spotify" 
-      title="Tocando agora - BraulioJr" 
-      width="420" />
+  <!-- 🎥 YouTube: Visualizações -->
+  <a href="https://www.youtube.com/@braul.jrz1" target="_blank">
+    <img
+      alt="Visualizações no YouTube"
+      title="Visualizações totais do canal"
+      src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCjpaj0-F7TZUQXZ4MlpiVrg?color=2B2B2B&label=Visualizações&logo=youtube&logoColor=FF0000&style=for-the-badge&labelColor=1C1C1C"
+    />
   </a>
 
-</div>
+  <!-- 🧑‍💻 GitHub: Seguidores -->
+  <a href="https://github.com/BraulioJr?tab=followers" target="_blank">
+    <img
+      alt="Seguidores no GitHub"
+      title="Siga-me no GitHub"
+      src="https://custom-icon-badges.demolab.com/github/followers/BraulioJr?color=2B2B2B&label=Seguidores&logo=github&logoColor=white&style=for-the-badge&labelColor=1C1C1C"
+    />
+  </a>
+
+  <!-- ⭐ GitHub: Estrelas -->
+  <a href="https://github.com/BraulioJr?tab=repositories" target="_blank">
+    <img
+      alt="Estrelas no GitHub"
+      title="Total de estrelas nos repositórios"
+      src="https://custom-icon-badges.demolab.com/github/stars/BraulioJr?color=2B2B2B&label=Estrelas&logo=star&logoColor=FFD700&style=for-the-badge&labelColor=1C1C1C"
+    />
+  </a>
+
+  <!-- 👁️ GitHub: Visualizações -->
+  <a href="https://github.com/BraulioJr" target="_blank">
+    <img
+      alt="Visualizações de perfil"
+      title="Total de visualizações do perfil"
+      src="https://komarev.com/ghpvc/?username=BraulioJr&style=for-the-badge&color=2B2B2B&labelColor=1C1C1C&logo=github&logoColor=white&label=Visualizações"
+    />
+  </a>
+
+</p>
