@@ -3,7 +3,7 @@
   <h2>Bráulio Moreira</h2>
   <h4>Autodidata fascinado por Ciência de Dados</h4>
 </section>
-!--Apresentação -->
+<!--Apresentação -->
 <p>
     Meu foco é desenvolver habilidades para transformar dados em decisões inteligentes.
     Estudo Data Analysis e Machine Learning com foco em otimização de processos.<br>
