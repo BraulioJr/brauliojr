@@ -110,27 +110,30 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="Twitch" title="Twitch" />
   </div>
 
-<br>
+<!-- Playlist Spotify (Embed oficial com capa garantida) -->
+<section style="text-align: center; margin-top: 40px;">
+  <h2>🎧 Sons e Playlists para Concentração</h2>
 
-<!-- Playlist Spotify -->
-<section style="text-align: center; margin-top: 20px;">
   <!-- Badge principal -->
   <a href="https://open.spotify.com/user/31smb24pscew3akwdhp2dbpyluni" target="_blank" rel="noopener noreferrer">
     <img 
-      src="https://img.shields.io/badge/🎧_Sons_e_playlists_para_concentração-1DB954?style=for-the-badge&logo=spotify&logoColor=white" 
+      src="https://img.shields.io/badge/🎧_Modo_Foco-1DB954?style=for-the-badge&logo=spotify&logoColor=white" 
       alt="Ouça no Spotify" 
-      title="Abrir Spotify de BraulioJr"
       style="border-radius: 8px; box-shadow: 0 0 12px rgba(88, 101, 242, 0.4);" />
   </a>
 
-  <!-- Tocando agora -->
+  <!-- Tocando agora (Embed oficial) -->
   <div style="margin-top: 25px;">
-    <a href="https://open.spotify.com/user/31smb24pscew3akwdhp2dbpyluni" target="_blank" rel="noopener noreferrer">
-      <img 
-        src="https://spotify-github-profile.vercel.app/api/view?uid=31smb24pscew3akwdhp2dbpyluni&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&bar_color=1DB954&bar_color_cover=true" 
-        alt="🎵 Tocando agora no Spotify" 
-        title="Tocando agora - BraulioJr"
-        style="max-width: 100%; height: auto; border-radius: 12px; box-shadow: 0 0 20px rgba(29,185,84,0.3), 0 0 20px rgba(88,101,242,0.3);" />
-    </a>
+    <iframe 
+      style="border-radius:12px"
+      src="https://open.spotify.com/embed/playlist/37i9dQZF1DWZeKCadgRdKQ?utm_source=generator"
+      width="420"
+      height="352"
+      frameborder="0"
+      allowfullscreen=""
+      allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+      loading="lazy">
+    </iframe>
   </div>
 </section>
+
