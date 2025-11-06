@@ -1,10 +1,8 @@
 <!--Título-->
-
 <div id="user-content-toc">
-  <h1 align="center">Bem vindo ao futuro</h1>
-  <h2 align="center">👋Sou Bráulio Moreira</h2>
+  <h2 align="center">BEM VINDO AO FUTURO</h2>
+  <h1 align="center">Bráulio Moreira</h1>
   <h3 align="center">Autodidata fascinado por Ciência de Dados</h3><br>
-
 </div>
 
 <!--Apresentação -->
@@ -67,17 +65,22 @@
   Minha evolução é medida não apenas pelos projetos entregues, mas também pelo crescimento contínuo em habilidades analíticas e capacidade de transformar dados em insights acionáveis.<br> Sinta-se à vontade para explorar meus repositórios e acompanhar meu progresso!.<br></details>
 
 <!--Linguagens e Ferramentas -->
-<a>
+<div><h3 align="left">Linguagens e Ferramentas</h3></div>
 
-<img align="left"
-title="html"
-title="html"
-width="30px"
-style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-
-
-
-
-
-</a>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
