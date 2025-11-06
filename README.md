@@ -1,9 +1,10 @@
-<!--Título-->
-<div id="user-content-toc">
-  <h2 align="center">BEM VINDO AO FUTURO</h2>
-  <h1 align="center">Bráulio Moreira</h1>
-  <h3 align="center">Autodidata fascinado por Ciência de Dados</h3><br>
-</div>
+<!-- Título -->
+<section id="user-content-toc" style="text-align: center; margin-bottom: 40px;">
+  <h1>BEM-VINDO AO FUTURO</h1>
+  <h2>Bráulio Moreira</h2>
+  <h3>Autodidata fascinado por Ciência de Dados</h3>
+  <br />
+</section>
 
 <!--Apresentação -->
 <p>
