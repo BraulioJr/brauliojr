@@ -1,9 +1,94 @@
-<!-- Título -->
-<section id="user-content-toc" style="text-align: left; margin-bottom: 40px;">
+<section id="user-content-toc" class="intro">
   <h1>BEM-VINDO AO FUTURO</h1>
   <h2>Bráulio Moreira</h2>
   <h4>Autodidata fascinado por Ciência de Dados</h4>
 </section>
+
+<style>
+  .intro {
+    text-align: left;
+    margin-bottom: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+
+  /* Título principal em preto */
+  .intro h1 {
+    font-size: 2.5em;
+    color: #000000; /* Preto */
+    margin-bottom: 8px;
+  }
+
+  .intro h2 {
+    font-size: 1.8em;
+    margin-bottom: 6px;
+    color: #333;
+  }
+
+  .intro h4 {
+    font-weight: 400;
+    color: #555;
+  }
+</style>
+
+<style>
+  .intro {
+    text-align: left;
+    margin-bottom: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana
+
+
+<style>
+  .intro {
+    text-align: left;
+    margin-bottom: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+
+  /* Cor personalizada para o título principal */
+  .intro h1 {
+    font-size: 2.5em;
+    color: #00c6ff; /* Azul claro - altere aqui se quiser outro tom */
+    margin-bottom: 8px;
+  }
+
+  .intro h2 {
+    font-size: 1.8em;
+    margin-bottom: 6px;
+    color: #333;
+  }
+
+  .intro h4 {
+    font-weight: 400;
+    color: #555;
+  }
+</style>
+
+
+<style>
+  .intro {
+    text-align: left;
+    margin-bottom: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+
+  .intro h1 {
+    font-size: 2.5em;
+    color: #0072ff;
+    margin-bottom: 8px;
+  }
+
+  .intro h2 {
+    font-size: 1.8em;
+    margin-bottom: 6px;
+    color: #333;
+  }
+
+  .intro h4 {
+    font-weight: 400;
+    color: #555;
+  }
+</style>
+
 
 <!--Apresentação -->
 <p>
