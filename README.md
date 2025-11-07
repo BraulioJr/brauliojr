@@ -1,6 +1,5 @@
 <section id="user-content-toc" class="intro">
-  <h1>BEM-VINDO AO FUTURO</h1>
-  <h2>Bráulio Moreira</h2>
+  <h1>Bráulio Moreira</h1>
   <h4>Autodidata fascinado por Ciência de Dados</h4>
 </section>
 <!--Apresentação -->
