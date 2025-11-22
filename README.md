@@ -89,7 +89,7 @@
     <li>HTML – CSS – JavaScript (Introdução)</li>
   </ul>
 
-  <h3>Projetos Refatorados (2020 á 2024)</h3>
+  <h3>Projetos Refatorados (2020 à 2024)</h3>
   <ul>
     <li>Refatorado Proj. 2024 – Planejado (Privado)</li>
     <li>Refatorado Proj. 2023 – Entendimento (Público)</li>
